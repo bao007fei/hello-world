@@ -2,7 +2,7 @@
 
 Hi Humans!
 
-I'm robot:D
-I'm batman
-I'm bat
-I'm man
+I'm robot:D\n
+I'm batman\n
+I'm bat\n
+I'm man\n
